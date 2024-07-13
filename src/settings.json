@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Seamless Workflow",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Seamless Workflow",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Seamless Workflow",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Seamless Workflow",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Seamless Workflow",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Seamless Workflow",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Seamless Workflow",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Solutions for a Seamless Workflow",
+        "title": "Revolutionize Your Workday"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Workday",
+  "subtitle": "Innovative Solutions for a Seamless Workflow"
+}
